@@ -6,3 +6,24 @@
    margin-top: .2rem;
    margin-bottom: .2rem;
 }
+
+.m-0{
+    margin:0px;
+}
+
+.py-1{
+    padding-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
+
+.bg-white{
+    background: white;
+}
+
+h3.chart-label{
+    margin-top: 0rem;
+    margin-bottom: 0px;
+    background: white;
+    padding: .2rem .2rem .2rem .4rem;
+
+}
