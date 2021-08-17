@@ -5,12 +5,13 @@
 import * as React from 'react';
 import { Text, View} from "react-native";
 import AppStyleSheet from "../../../AppStyleSheet";
+import Home from "./home";
 
 
 export default function HomeScreen({ navigation }) {
 
  return (
-        <View style={AppStyleSheet.view}>
-            <Text>A Főoldal tartalma</Text>
+        <View style={AppStyleSheet.viewTop}>
+           <Home/>
         </View>);
 }

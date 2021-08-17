@@ -5,5 +5,12 @@ export default StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
+    },
+
+    viewTop: {
+        flex: 1,
+        justifyContent: 'top',
+        alignItems: 'center',
+        padding: '15px'
     }
 })

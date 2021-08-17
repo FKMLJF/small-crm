@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/App.css">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/App.js">
           <value>
             <set />
@@ -14,6 +24,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/package.json">
           <value>
             <set />
           </value>
@@ -74,6 +89,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/components/visit/visit-screen.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Vector/Repository/grpc-client/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Vector/Repository/grpc-client/app/Http/Controllers/GRPCController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Vector/Repository/grpc-client/app/protos/greet.proto">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Vector/Repository/grpc-client/config/grpc.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Vector/Repository/grpc-client/routes/web.php">
           <value>
             <set />
           </value>
